@@ -1,0 +1,41 @@
+store_type,store_name,ordered_month,orders_count,items_count,items_total,contract_count,warrantable_count,warranty_count,warranty_revenue,items_revenue
+Auto Parts & Electronics,CarStereoIsland,2020-03-01,48,58,213,96,96,0,1359.74,15832.51
+Auto Parts & Electronics,CarStereoIsland,2020-04-01,76,87,309,134,134,0,1614.96,21996.75
+Auto Parts & Electronics,CarStereoIsland,2020-05-01,81,95,295,142,142,0,2121.51,25690.05
+Consumer Electronics,DroneWarehouse,2020-05-01,325,367,760,441,438,0,3216.02,31198.28
+Consumer Electronics,Photos4Grandma,2020-03-01,45,45,54,48,48,0,1437.52,8733.58
+Consumer Electronics,Photos4Grandma,2020-04-01,161,162,245,185,185,0,5119.15,39777.57
+Consumer Electronics,Photos4Grandma,2020-05-01,264,264,392,304,304,0,9078.96,66904.92
+Consumer Electronics,RefurbPCLand,2020-03-01,114,114,225,126,124,0,3445.76,43282.01
+Consumer Electronics,RefurbPCLand,2020-04-01,9,9,595,35,35,0,1128.65,108467.83
+Consumer Electronics,SiiickHeadphones,2020-03-01,44,44,48,45,45,0,490.45,3229.52
+Consumer Electronics,SiiickHeadphones,2020-04-01,124,125,131,127,127,0,1803.53,12208.69
+Consumer Electronics,SiiickHeadphones,2020-05-01,122,124,133,127,127,0,1739.73,11073.67
+Home and Garden,HVAC4U,2020-03-01,58,60,64,61,59,0,3856.52,24785.34
+Home and Garden,HVAC4U,2020-04-01,92,93,128,98,98,0,5330.09,32389.84
+Home and Garden,HVAC4U,2020-05-01,184,186,202,191,187,0,9850.57,58826.10
+Home and Garden,PowerWashersDirect,2020-03-01,2,2,2,2,1,0,5.99,321.30
+Home and Garden,PowerWashersDirect,2020-04-01,27,27,41,31,30,0,1277.33,11046.33
+Home and Garden,PowerWashersDirect,2020-05-01,30,30,36,32,26,0,1099.77,9212.79
+Home Security,HomeSecurityMart,2020-03-01,83,87,104,92,91,0,2919.59,18878.96
+Home Security,HomeSecurityMart,2020-04-01,76,80,92,84,81,0,2734.69,18459.08
+Home Security,HomeSecurityMart,2020-05-01,249,258,316,276,255,0,10570.05,75516.49
+Home Security,SecurityCamDirect,2020-03-01,111,128,553,198,125,0,1427.05,24619.59
+Home Security,SecurityCamDirect,2020-04-01,200,216,653,325,224,0,2674.96,35932.90
+Home Security,SecurityCamDirect,2020-05-01,87,89,195,112,112,0,1327.98,12256.18
+Sports & Fitness Equipment,DietTrackers,2020-04-01,8,8,16,10,8,0,360.63,3157.00
+Sports & Fitness Equipment,DietTrackers,2020-05-01,87,89,109,94,89,0,3906.25,31784.00
+Sports & Fitness Equipment,ElectricSkatePark,2020-03-01,7,7,7,7,4,0,348.97,4843.00
+Sports & Fitness Equipment,ElectricSkatePark,2020-04-01,9,9,9,9,9,0,1045.95,5891.00
+Sports & Fitness Equipment,ElectricSkatePark,2020-05-01,22,22,22,22,21,0,2216.87,15848.00
+Sports & Fitness Equipment,FitnessWareables,2020-03-01,48,48,52,49,49,0,2294.51,15548.00
+Sports & Fitness Equipment,FitnessWareables,2020-04-01,241,243,252,246,246,0,9076.54,60928.00
+Sports & Fitness Equipment,FitnessWareables,2020-05-01,569,573,585,577,574,0,20327.26,138615.00
+Sports & Fitness Equipment,PowerMassagerPros,2020-03-01,69,69,72,70,67,0,3355.36,25749.28
+Sports & Fitness Equipment,PowerMassagerPros,2020-04-01,122,124,130,126,126,0,6469.33,41498.70
+Sports & Fitness Equipment,PowerMassagerPros,2020-05-01,126,128,129,129,125,0,6422.36,41698.71
+Sports & Fitness Equipment,SkateboardsUSA,2020-03-01,44,44,47,45,44,0,8208.87,74603.00
+Sports & Fitness Equipment,SkateboardsUSA,2020-04-01,57,57,60,58,51,0,11229.89,83544.95
+Sports & Fitness Equipment,SkateboardsUSA,2020-05-01,69,71,77,73,73,0,18877.00,138373.00
+Watches & Jewelry,LuxuryWatchDepot,2020-04-01,14,14,14,14,13,0,5927.00,70780.00
+Watches & Jewelry,LuxuryWatchDepot,2020-05-01,47,48,48,48,46,0,15784.00,191114.00
