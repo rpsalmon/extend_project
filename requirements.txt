@@ -1,0 +1,6 @@
+pandas
+datetime
+numpy
+seaborn
+psycopg2
+matplotlib
